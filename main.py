@@ -119,7 +119,7 @@ def support_cmd(message):
                                       f'По любому вопросу можете обратиться сюда: @needlessbeating\n'
                                       f'Страница бота в гитхабе: https://github.com/larevies/Music-Bot',
                      reply_markup=markup)
-    bot.send_sticker(message.chat.id, "CAACAgIAAxkBAAELK5VlopZR9Q_e89V8bPfoA0jZV-tnbQACShUAApYz0UrkbnOpOGIBNzQE")
+    bot.send_sticker(message.chat.id, "CAACAgIAAxkBAAELK5dlopo-ncjFLCYxo8AMSezM0YSqgwACkBEAAoUGSEsfzQW99MmFsTQE")
 
 
 def add_cmd(message):
